@@ -1,4 +1,4 @@
-# Olá, eu sou André Jorge 👋
+# Olá, eu sou AndrosoftStudio 👋
 
 ### -- Estudante de curso técnico em desenvolvimento de sistemas pelo Senai Bahia
 
