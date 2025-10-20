@@ -1,42 +1,75 @@
-# Olá, eu sou André Jorge 👋
+<!-- HERO -->
+<h1 align="center">Bem-vindo ao GitHub da AndrosoftStudio</h1>
 
-### -- Estudante de curso técnico em desenvolvimento de sistemas pelo Senai Bahia
-
-<br>
-
-## ⚡ Sobre Mim
-<p align="left">
-  Sou um apaixonado por tecnologia e programação, sempre em busca de novos desafios e aprendizados. Atualmente, estou focado em C# e desenvolvimento Web. Tenho experiência em desenvolvimento de sites com IA, jogos mobile na Unity Engine com IA, aplicativos desktop com IA e gosto de transformar ideias em código funcional.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AndrosoftStudio&label=Visualiza%C3%A7%C3%B5es&style=flat-square" alt="Visualizações de perfil">
+  <a href="https://github.com/AndrosoftStudio?tab=followers">
+    <img src="https://img.shields.io/github/followers/AndrosoftStudio?style=flat-square" alt="Seguidores">
+  </a>
+  <a href="https://github.com/AndrosoftStudio?tab=repositories">
+    <img src="https://img.shields.io/github/stars/AndrosoftStudio?affiliations=OWNER%2CCOLLABORATOR&style=flat-square" alt="Total de Stars">
+  </a>
 </p>
 
----
+<hr/>
 
-## 🔗 Conecte-se comigo
-<p align="left">
-<a href="https://www.linkedin.com/in/andrejorge-devandre?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="mailto:andrenegocios2025@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" /></a>
+<!-- STACK / TECNOLOGIAS (DEVICON) -->
+<h2 align="center">Tecnologias</h2>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" title="C#" width="48" height="48" style="margin:6px;" />
+  <img src="https://cdn.simpleicons.org/blazor" alt="Blazor" title="Blazor" width="48" height="48" style="margin:6px;" />
+  <img src="https://cdn.simpleicons.org/dotnet" alt=".NET MAUI" title=".NET MAUI" width="48" height="48" style="margin:6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="48" height="48" style="margin:6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="48" height="48" style="margin:6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" title="Java" width="48" height="48" style="margin:6px;" />
 </p>
 
----
+<hr/>
 
-## 🛠️ Tecnologias e Ferramentas
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-</p>
-
----
-
-## 📊 Minhas Estatísticas no GitHub
-
+<!-- MÉTRICAS (CARDS) -->
+<h2 align="center">GitHub</h2>
 <div align="center">
-  <a href="https://github.com/AndrosoftStudio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndrosoftStudio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrosoftStudio&layout=compact&langs_count=7&theme=dracula"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AndrosoftStudio&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false&locale=pt-br" height="170" alt="Estatísticas do GitHub">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AndrosoftStudio&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false" height="170" alt="Top Languages">
+  <img src="https://streak-stats.demolab.com?user=AndrosoftStudio&theme=dracula&locale=pt_BR&date_format=j%20M%5B%20Y%5D" height="170" alt="GitHub Streak">
 </div>
 
+<!-- TROFÉUS -->
+<h2 align="center">🏆</h2>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AndrosoftStudio&theme=dracula&no-frame=true&no-bg=true&column=6" alt="Troféus do perfil">
+</p>
 
+<!-- GRÁFICO DE ATIVIDADES -->
+<h2 align="center">Commits</h2>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AndrosoftStudio&theme=dracula&hide_border=false" alt="Gráfico de atividades">
+</p>
+
+<hr/>
+
+<!-- REPOSITÓRIOS EM DESTAQUE -->
+<h2 align="center">Repositórios em destaque</h2>
+<p align="center">
+  <a href="https://github.com/AndrosoftStudio/AppTemplate">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AndrosoftStudio&repo=AppTemplate&theme=dracula" alt="AppTemplate">
+  </a>
+  <a href="https://github.com/AndrosoftStudio/MobileManager">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AndrosoftStudio&repo=MobileManager&theme=dracula" alt="MobileManager">
+  </a>
+</p>
+
+<!-- CONTATOS -->
+<h2 align="center">Contato</h2>
+<p align="center">
+  <a href="mailto:contact@androsoftstudio.com">
+    <img src="https://img.shields.io/badge/E--mail-D14836?logo=gmail&logoColor=white&labelColor=333" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/company/androsoftstudio">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&labelColor=333" alt="LinkedIn">
+  </a>
+</p>
+
+<hr/>
+
+<p align="center">✨ Obrigado por visitar o perfil da <strong>AndrosoftStudio</strong>! Se gostou de algum projeto, considere deixar uma ⭐ para apoiar nosso trabalho.</p>
