@@ -1,4 +1,4 @@
-<!-- MINIMAL • REALTIME METRICS -->
+<!-- MINIMAL • REALTIME • STACK-RICH -->
 <div align="center">
   <img src="https://github.com/AndrosoftStudio.png?size=240" alt="AndrosoftStudio Avatar" width="140" style="border-radius:50%;"/>
   <h1 style="margin-top:8px;">AndrosoftStudio</h1>
@@ -21,20 +21,47 @@
 
 ---
 
-<!-- DYNAMIC CARDS (auto‑atualizados via API) -->
+<!-- GRÁFICOS DINÂMICOS -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AndrosoftStudio&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false&locale=pt-br" height="170" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AndrosoftStudio&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false" height="170" alt="Top Linguagens"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AndrosoftStudio&layout=compact&card_width=420&langs_count=20&theme=dracula&hide_border=false" height="170" alt="Top Linguagens"/>
   <img src="https://streak-stats.demolab.com?user=AndrosoftStudio&theme=dracula&locale=pt_BR&date_format=j%20M%5B%20Y%5D" height="170" alt="Streak"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AndrosoftStudio&theme=dracula&hide_border=false" alt="Gráfico de Atividade"/>
 </div>
 
 ---
 
-<!-- LANGUAGE PIE CHARTS (gerados por GitHub Action; atualizam sozinhos) -->
+<!-- STACK WALL (icones) -->
+<div align="center">
+
+<!-- Linguagens principais -->
+<img src="https://skillicons.dev/icons?i=ts,js,cs,dotnet,java,kotlin,swift,go,python,rust,php,ruby,scala,elixir,dart,solidity&perline=16" alt="Languages"/>
+
+<!-- Frontend / Web -->
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,svelte,astro,tailwind,bootstrap,vite,webpack,rollup,graphql&perline=16" alt="Frontend"/>
+
+<!-- Backend / APIs -->
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,deno,fastapi,flask,django,spring,laravel,rails,prisma&perline=16" alt="Backend"/>
+
+<!-- Mobile / Desktop -->
+<img src="https://skillicons.dev/icons?i=android,flutter,react,tauri,electron&perline=16" alt="Mobile/Desktop"/>
+
+<!-- Databases -->
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis,firebase,supabase&perline=16" alt="Databases"/>
+
+<!-- Cloud / DevOps -->
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,vercel,netlify,docker,kubernetes,terraform,ansible,nginx,linux&perline=16" alt="Cloud/DevOps"/>
+
+<!-- Tools -->
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,vscode,idea,figma,postman,bash,powershell&perline=16" alt="Tools"/>
+</div>
+
+---
+
+<!-- PIE CHARTS AUTO (GitHub Action) -->
 <p align="center">
-  <img src="./profile-summary-card-output/dracula/1-repos-per-language.svg" alt="Linguagens por Repositório (Pie)" />
-  <img src="./profile-summary-card-output/dracula/2-most-commit-language.svg" alt="Linguagens mais Commitadas (Pie)" />
+  <img src="./profile-summary-card-output/dracula/1-repos-per-language.svg" alt="Repos per Language (Pie)" />
+  <img src="./profile-summary-card-output/dracula/2-most-commit-language.svg" alt="Most Commit Language (Pie)" />
 </p>
 
 <!-- FIM -->
